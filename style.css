@@ -113,6 +113,7 @@ img{
     }
 
     .header{
+        background-image: url('./images/image-header-desktop.jpg');
         margin: 0;
         border-radius: 0 10px 10px 0;
         height: auto;
