@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/Hualdop/LandingPage/tree/master)
-- Live Site URL: [](https://hualdop.github.io/LandingPage/)
+- Solution URL: [](https://github.com/Hualdop/MainCardComponent/tree/master)
+- Live Site URL: [](https://hualdop.github.io/MainCardComponent/)
 
 
 ## My process
